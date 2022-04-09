@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /principal
+Sitemap: https://getbootstrap.com/sitemap.xml
+
+
+User-agent: JamesBOT
+Disallow: /
